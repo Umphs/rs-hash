@@ -2,7 +2,7 @@
 
 My port for RS Hash from https://www.programmingalgorithms.com/algorithm/rs-hash?lang=C
 
-Used to hash a string to an integer.
+Used to hash a string to an integer, I just looked up hash functions and tried to find the one with reportedly fewer hash colisions ported it and voila.
 
 ## Usage
 
