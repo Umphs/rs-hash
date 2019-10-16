@@ -1,4 +1,4 @@
-export default function hash(value: string) {
+export function hash(value: string) {
   const length = value.length;
   let h = 0, a = 63689, b = 378551;
 	for (let i = 0; i < length; i++)
